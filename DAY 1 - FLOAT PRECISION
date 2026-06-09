@@ -1,0 +1,3 @@
+a=float(input("Enter the value in the decimal form:"))
+print("The rounded of 2 decimal places are",round(a,2))
+print("Converted into float to integer",int(a))
