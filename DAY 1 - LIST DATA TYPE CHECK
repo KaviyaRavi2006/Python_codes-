@@ -1,0 +1,5 @@
+a=[10,3.5,"kaviya",True]
+print(a,"->",type(a[0]))
+print(a,"->",type(a[1]))
+print(a,"->",type(a[2]))
+print(a,"->",type(a[3]))
