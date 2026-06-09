@@ -1,0 +1,8 @@
+a=int(input("Enter the value: "))
+first = a // 100
+second = (a // 10) %10
+third = a % 10
+
+sumofdigits=first+second+third
+print("Extract of each digits are: ",first,second,third)
+print("The sum of digits: ",sumofdigits)
