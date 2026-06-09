@@ -1,0 +1,4 @@
+a=input("Enter a word :")
+print("The first 3 charaters are:",a[:3])
+print("The last 2 charaters are: ",a[-2:])
+print("Reversed string: ",a[::-1])
