@@ -1,0 +1,11 @@
+a=int(input("Enter the number: "))
+b=float(input("Enter the number in decimal: "))
+c=input("Enter your name: ")
+
+x=float(a)
+y=float(b)
+z=float(c)
+
+result=x+y+z
+print(result)
+      
