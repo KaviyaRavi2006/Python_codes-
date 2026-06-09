@@ -1,0 +1,5 @@
+a="45"
+num=int(a)
+c=num+10
+result=str(c)
+print(result,"is the result")
